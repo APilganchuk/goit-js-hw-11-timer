@@ -1,0 +1,10 @@
+.timer {
+    display: flex;
+    justify-content: space-evenly;
+
+    font-weight: 900;
+    font-size: 55px;
+}
+.timer .label {
+    color: rgb(14, 175, 9);
+}
